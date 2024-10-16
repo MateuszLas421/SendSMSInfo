@@ -1,2 +1,2 @@
 # SendSMSInfo
-Application to send SMS using hostedsms.pl
+An application for sending SMS messages through the SMS gateway hostedsms.pl.
